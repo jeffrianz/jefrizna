@@ -1,0 +1,8 @@
+if (isset($_GET['var']))
+{
+  // SUBMIT FORM
+}
+else
+{
+  // leave the page alone
+}
